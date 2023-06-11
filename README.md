@@ -1,6 +1,6 @@
 # Plantos | Project Exam 1
 
-
+![logo](images/classic-wooden-chair-by-fiddle-leaf-fig-plant.jpg)
 
 ## Description
 
